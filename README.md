@@ -70,6 +70,7 @@ Final-year **Cybersecurity & Digital Forensics Engineering** student passionate 
 I share security notes, labs, and CTF writeups here:
 
 ➡️ https://hackmd.io/@ericksanga
+➡️ https://medium.com/@dr3amy
 
 ---
 
