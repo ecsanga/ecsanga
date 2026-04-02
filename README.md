@@ -10,7 +10,7 @@ Final-year **Cybersecurity & Digital Forensics Engineering** student passionate 
 
 * 🎓 BSc. Cybersecurity & Digital Forensics Engineering — **University of Dodoma (2022–2026)**
 * 🛡️ Cybersecurity Analyst Intern — **e-Government Authority (e-GA)**
-* 💼 Practical Training — **Ministry of Finance**
+* 💼 Programmer (PT) — **Ministry of Finance**
 * 🧑‍💻 Freelance Cybersecurity & IT Projects
 * 🌍 Based in Tanzania
 
