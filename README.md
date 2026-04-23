@@ -19,7 +19,8 @@ Final-year **Cybersecurity & Digital Forensics Engineering** student passionate 
 ## 🏆 Highlights & Achievements
 
 * 🥇 **TCRA Cyberchampions Winner 2025/26 Countrywise**
-* 🏅 **CyberChampions Top 10 (Final) 2024/25 Countrywise**
+* 🏅 **Winner National Cyber Premier League(CPL) **
+* 🏅 **CyberChampions Top 12 (Final) 2024/25 Countrywise**
 * 🧠 **Top 1% on TryHackMe**
 * 💀 **Pro Hacker Rank on HackTheBox**
 * 🥈 **2nd Place – PwnTillDawn Country Rankings**
