@@ -2,7 +2,7 @@
 
 🔐 **Cybersecurity Specialist | Penetration Tester | Bug Bounty Hunter**
 
-Final-year **Cybersecurity & Digital Forensics Engineering** student passionate about **defensive security, vulnerability assessment, and ethical hacking**. I enjoy breaking systems to help secure them and continuously learning through CTFs, labs, and real-world security projects.
+A **Cybersecurity & Digital Forensics Engineer** passionate about **defensive security, vulnerability assessment, and ethical hacking**. I enjoy breaking systems to help secure them and continuously learning through CTFs, labs, and real-world security projects.
 
 ---
 
