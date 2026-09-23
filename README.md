@@ -23,7 +23,7 @@ A **Cybersecurity & Digital Forensics Engineer** passionate about **defensive se
 * 🏅 **CyberChampions Top 12 (Final) 2024/25 Countrywise**
 * 🧠 **Top 1% on TryHackMe**
 * 💀 **Pro Hacker Rank on HackTheBox**
-* 🥈 **2nd Place – PwnTillDawn Country Rankings**
+* 🥈 **1st Place – PwnTillDawn Country Rankings**
 
 ---
 
